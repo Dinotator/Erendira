@@ -12,5 +12,4 @@ public class Erendira {
         i.setVisible(true);
         
     }
-    
 }
